@@ -1,6 +1,7 @@
 ### Welcome to my Profile
 ![My Picture](images/profileme.png)
 
+
 ### About Johny Rex?
 Frontend web developer and Diplomat aspirant - bridging technology with diplomacy 🌐 | Passionate about crafting elegant, user-centric experiences | Balancing code and global affairs | 
 
@@ -75,3 +76,12 @@ Feel free to reach out to me via email at [johnkwofie99@icloud.com](mailto:johnk
 ### 🔥 GitHub Streak
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=johnyREx&theme=radical)](https://git.io/streak-stats)
+
+---
+
+### 📹 My Coding Video
+
+<video width="320" height="240" controls>
+  <source src="images/RexCoding.MP4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>

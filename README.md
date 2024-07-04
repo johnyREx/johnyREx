@@ -70,7 +70,7 @@ Feel free to reach out to me via email at [johnkwofie99@gmail.com](mailto:johnkw
 
 ### 📈 GitHub Stats
 
-![Johny Rex's GitHub stats](https://github-readme-stats.vercel.app/api?johnyREx=johnyRex&show_icons=true&theme=radical)
+![Johny Rex's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnyREx&show_icons=true&theme=radical)
 
 ### 🔥 GitHub Streak
 

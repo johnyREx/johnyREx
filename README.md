@@ -82,6 +82,6 @@ Feel free to reach out to me via email at [johnkwofie99@icloud.com](mailto:johnk
 ### 📹 My Coding Video
 
 <video width="320" height="240" controls>
-  <source src="images/RexCoding.MP4" type="video/mp4">
+  <source src="images/RexCoding.gif" type="video/mp4">
   Your browser does not support the video tag.
 </video>

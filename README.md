@@ -81,7 +81,7 @@ Feel free to reach out to me via email at [johnkwofie99@icloud.com](mailto:johnk
 
 ### 📹 My Coding Video
 ![My video](images/RexCoding.gif)
-<video width="320" height="240" controls>
-  <source src="images/RexCoding.gif" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+---
+
+&copy; 2024 JohnyRex

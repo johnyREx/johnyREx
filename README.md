@@ -46,7 +46,7 @@ Frontend web developer and Diplomat aspirant - bridging technology with diplomac
 
 ### 📞 Contact
 
-Feel free to reach out to me via email at [johnkwofie99@gmail.com](mailto:johnkwofie99@icloud.com).
+Feel free to reach out to me via email at [johnkwofie99@icloud.com](mailto:johnkwofie99@icloud.com).
 
 ---
 

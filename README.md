@@ -17,7 +17,7 @@ Frontend web developer and Diplomat aspirant - bridging technology with diplomac
 
 ### 📂 Projects
 
-- **[EPGM – BPAM Church App](https://github.com/johnyREx/profile_card)**  
+- **[EPGM – BPAM Church App](https://github.com/johnyREx/epgm-church-app)**  
   A modern React Native (Expo) app built for *End Time Prayer Global Ministry (Bishop Peter Ababio Ministry)*.  
   Features include church resources, prayer requests, seminar videos, and a clean spiritual UI experience.
 

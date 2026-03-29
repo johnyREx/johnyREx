@@ -16,8 +16,16 @@ Frontend web developer and Diplomat aspirant - bridging technology with diplomac
 ---
 
 ### 📂 Projects
-- **[Smart Messenger](https://github.com/johnyREx/Webstack-Portfolio-Project)**: A robust realtime chat app.
-- **[My Playground](https://github.com/johnyREx/johnys_playground)**: A repo for some of my exclusive works.
+
+- **[EPGM – BPAM Church App](https://github.com/johnyREx/profile_card)**  
+  A modern React Native (Expo) app built for *End Time Prayer Global Ministry (Bishop Peter Ababio Ministry)*.  
+  Features include church resources, prayer requests, seminar videos, and a clean spiritual UI experience.
+
+- **[Smart Messenger](https://github.com/johnyREx/Webstack-Portfolio-Project)**  
+  A robust real-time chat application.
+
+- **[My Playground](https://github.com/johnyREx/johnys_playground)**  
+  A collection of experimental projects and creative builds.
 
 ---
 
@@ -28,7 +36,7 @@ Frontend web developer and Diplomat aspirant - bridging technology with diplomac
   - 3.50 GPA
   - Dean's List
 
-- **Master of Science in Sociology and Social Informatics** - Higher School of Economics - Russia
+- **Sociology and Social Informatics** - Higher School of Economics - Russia
   - 2018 - 2020
   - 2nd Best Student in English Language
 
